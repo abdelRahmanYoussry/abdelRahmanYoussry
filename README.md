@@ -28,6 +28,21 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/abdelrahman-youssry](www.linkedin.com/in/abdelrahman-youssry)
 
+<h2> Samples from my projects </h2>
+
+### TaskAway
+TaskAway is todo app with reminder and Tasks Schedule and it has some features :
+
+1.Create Tasks (With remainder Option)
+2. Change Tasks Statue
+
+3.Edit in Tasks
+
+4.Get Reminder With Start and End Time in the Tasks
+
+5.English Language
+<p><a href="https://play.google.com/store/apps/details?id=com.Abdelrhman.TaskAway" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelrahman-youssry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-youssry" height="30" width="40" /></a>

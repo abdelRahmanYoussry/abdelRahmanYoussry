@@ -36,6 +36,24 @@
 
 <h2> Samples from my projects </h2>
 
+
+### Click & Correct
+With Click&Correct, you can ask questions
+in math or drop off your math homework
+to receive a complete written solution or
+explained in video, proposed by teachers
+pedagogues.
+The application is the same for students or
+teachers. When creating the account, specify
+your profile and let yourself be guided.
+Our teachers are selected according to a process
+rigorous. They are experienced, pedagogues and
+passionate!
+https://clickandcorrect.fr/#/screenValidator
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.aro.android" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+
 ### TaskAway
 TaskAway is todo app with reminder and Tasks Schedule and it has some features :
 

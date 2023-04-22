@@ -49,6 +49,7 @@ your profile and let yourself be guided.
 Our teachers are selected according to a process
 rigorous. They are experienced, pedagogues and
 passionate!
+
 https://clickandcorrect.fr/#/screenValidator
 
 

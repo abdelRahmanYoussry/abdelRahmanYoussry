@@ -50,10 +50,27 @@ Our teachers are selected according to a process
 rigorous. They are experienced, pedagogues and
 passionate!
 
-https://clickandcorrect.fr/#/screenValidator
+### Web: https://clickandcorrect.fr/#/screenValidator
 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.aro.android" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+
+
+### Cashier App
+Free application to follow up commercial accounts.
+The most important characteristic of the accounts program
+Accuracy, ease, security, and many reports to follow up on all procedures
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.pyakia.cashier&pli=" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+
+
+### Sanad Rewards
+Sanad is a game-like scheme designed to use one or more of the cognitive biases into creating challenging contests, revolving around a certain area of development, with potential financial gains for those committed to achieving the designed goals. Areas like health, knowledge, social interactions, are all areas where Sanad strives to create and promote positive behaviors.
+
+<p><a href="https://play.google.com/store/apps/details?id=com.ubd.sanad" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
+
+
 
 ### TaskAway
 TaskAway is todo app with reminder and Tasks Schedule and it has some features :
@@ -69,6 +86,9 @@ TaskAway is todo app with reminder and Tasks Schedule and it has some features :
 <p><a href="https://play.google.com/store/apps/details?id=com.Abdelrhman.TaskAway" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
 
 
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
@@ -76,4 +96,5 @@ TaskAway is todo app with reminder and Tasks Schedule and it has some features :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanyoussry&show_icons=true&locale=en" alt="abdelrahmanyoussry" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanyoussry" alt="abdelrahmanyoussry" /></a> </p>
+
 
